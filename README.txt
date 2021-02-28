@@ -1,5 +1,7 @@
 README.txt FOR HJÖRVEE CLICKER.
 
+You will need the Unity engine installed to play this.
+
 Be aware that this project is very crude and
 was mostly based on inside humor from immature tweens.
 Despite this, the Hjörvee Clicker project was made with lots of love.
